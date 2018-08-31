@@ -1,0 +1,89 @@
+#header {
+	color: #fff;
+	background-image: url("../img/coach.jpg");
+	background-position: 50% 35%;
+	background-size: cover;
+	background-origin: content-box;
+	padding: 0.01em 60px;
+	box-shadow: 0px 0px 151px 64px black;
+	margin-top: 0px;
+	margin-bottom: 48px;
+}
+
+.wmc-btn-form, .wmc-btn-form-half {
+	background-color: black;
+	color: #1ca72ff1;
+    font-weight: bold;
+    font-size: larger;
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.26),5px 5px 20px 0 rgba(0,0,0,0.32);
+	border: 3px solid rgba(0,0,0,0.6);
+	padding: 12px 0px;
+	margin: 8px 0;
+	height: 25px;
+	width: 98%;
+	cursor: pointer;
+	box-sizing: content-box;
+}
+
+.wmc-theme{
+    background-color: #353535;
+}
+
+.wmc-btn,.wmc-button{
+    border:none;
+    display:inline-block;
+    padding:8px 16px;
+    vertical-align:middle;
+    overflow:hidden;
+    text-decoration:none;
+    color:black;
+    background-color: #1ca72ff1;
+    text-align:center;
+    cursor:pointer;
+    white-space:nowrap;
+    font-weight: bold;
+}
+
+
+.wmc-btn-form-half{
+    width: 48.5%;
+    display: inline-block;
+    color:#1ca72ff1;
+  }
+
+.wmc-black-btn{
+    color: #1ca72ff1;
+    background-color: black;
+}
+.wmc-card h2{
+    text-align: center;
+    background-color: #1ca72ff1;
+    padding:20px 0 ;
+    margin: 0;
+    width: 100%;
+    color: #000000;
+  }
+
+nav{
+    min-height: 40%;
+    background-color: #353535;
+    margin: 0;
+}
+
+.wmc-nav{
+    padding-left:  60px;
+    font-family:'Verdana', Arial, sans-serif;
+    box-shadow: 0px -5px 24px 15px #1ca72ff1;
+    padding-bottom: 64px;
+}
+
+.wmc-bar-item{
+    width:auto;
+    background-color: #1ca72ff1;
+    box-shadow: 0px 0px 5px #000000cc;
+    margin:0 10px;
+}
+
+.wmc-title{
+    font-size:48px;
+}
